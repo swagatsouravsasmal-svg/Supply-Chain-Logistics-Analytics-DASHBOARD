@@ -26,7 +26,7 @@ The goal of this project is to transform supply chain data into meaningful busin
 ---
 ## 📊 Dashboard Pages
 ### 1. Home Page
-![Home Page](DASHBOARD_IMAGES/Home_Page.png)
+![Home Page](./DASHBOARD_IMAGES/Home_Page.png)
 
 
 The Home Page provides navigation to the major sections of the dashboard:
