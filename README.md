@@ -27,8 +27,6 @@ The goal of this project is to transform supply chain data into meaningful busin
 ## 📊 Dashboard Pages
 ### 1. Home Page
 ![Home Page](./DASHBOARD%20IMAGES/Home_Page.png)
-
-
 The Home Page provides navigation to the major sections of the dashboard:
 - Overview
 - Supplier
@@ -37,6 +35,7 @@ The Home Page provides navigation to the major sections of the dashboard:
 - Customer
 ---
 ### 2. Overview Dashboard
+![Overview Dashboard](./DASHBOARD%20IMAGES/Overview.png)
 Provides a high-level summary of supply chain performance.
 Key metrics include:
 - Gross Revenue
@@ -51,6 +50,7 @@ Key metrics include:
 - Delivered Quantity
 ---
 ### 3. Supplier Dashboard
+![Supplier Dashboard](./DASHBOARD%20IMAGES/Supplier_Page.png)
 Analyzes supplier performance and purchasing activity.
 Key analysis includes:
 - Total Unit Cost by Month
@@ -62,6 +62,7 @@ Key analysis includes:
 - Supplier Quality Score
 ---
 ### 4. Inventory & Production Dashboard
+![Inventory Dashboard](./DASHBOARD%20IMAGES/Inventory_Page.png)
 Provides insights into inventory and production performance.
 Key analysis includes:
 - Inventory Value by Month
@@ -76,6 +77,7 @@ Key analysis includes:
 - Average Defective Units
 ---
 ### 5. Shipment Dashboard
+![Shipment Dashboard](./DASHBOARD%20IMAGES/Shipment_Page.png)
 Analyzes shipment performance and logistics operations.
 Key analysis includes:
 - Total Shipment
@@ -90,6 +92,7 @@ Key analysis includes:
 - Delay by Reason
 ---
 ### 6. Customer Dashboard
+![Customer Dashboard](./DASHBOARD%20IMAGES/Customer_Page.png)
 Analyzes customer revenue and profitability.
 Key analysis includes:
 - Gross Revenue
